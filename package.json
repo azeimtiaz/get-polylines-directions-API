@@ -1,0 +1,16 @@
+{
+  "name": "directions_api_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azma Imtiaz",
+  "license": "ISC",
+  "dependencies": {
+    "@googlemaps/polyline-codec": "^1.0.28",
+    "axios": "^0.27.2",
+    "google-polyline": "^1.0.3"
+  }
+}
